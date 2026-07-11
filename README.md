@@ -63,6 +63,7 @@ Customer-Churn-Reduction-Strategy
 ├── 03_Drawio
 ├── 04_Jira
 ├── 05_Excel
+|__ 06_Presentation
 ├── 07_Screenshots
 
 ## Tools Used
